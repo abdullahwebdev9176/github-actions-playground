@@ -1,5 +1,4 @@
-name: Abdullah's Continuous Integration (CI) Pipeline
-#Continuous Integration (CI) Pipeline
+name: Continuous Integration (CI) Pipeline
 
 # Trigger the workflow on push or pull request to main/master branches
 on:
